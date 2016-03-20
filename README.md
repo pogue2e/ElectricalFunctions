@@ -1,0 +1,3 @@
+# ElectricalFunctions
+VBA functions and subroutines for Electrical Construction Industry
+The electrical industry is governed by the National Electric Code (NEC).  Within the NEC are rules that dictate wire sizes and types, Conduit sizes and types, etc.  Within Microsoft Excel it is common to create schedules for wire and conduit based upon circuit ampacities. The code in this repository represents functions that examine circuit characteristics and return the appropriate values for those characteristics.  Within my project most of these are in class modules however I'm not smart enough to normalize arguments that pass into the class.  Anybody who wants to help is more than welcome.    
